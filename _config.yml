@@ -1,0 +1,6 @@
+# Configuration Jekyll pour GitHub Pages
+
+theme: jekyll-theme-cayman
+title: Guide de Révision Emacs
+description: Guide complet Système 1 & GNU Emacs - Université de Nice
+show_downloads: true
